@@ -8,6 +8,7 @@ public class InputOutput {
         //Declaring the Scanner Class for getting input from standard input device, keyboard
         Scanner sc = new Scanner(System.in);
 
+
         //String variable to hold the name of a person
         String name="";
         //Prompting a person to enter his/her name
