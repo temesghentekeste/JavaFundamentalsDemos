@@ -1,6 +1,4 @@
-package blogspot.uandiprogramming;
-
-public class Switch {
+public class SwitchQuarterYear {
     public static void main(String[] args) {
 
         String month = "july";
